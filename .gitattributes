@@ -1,0 +1,1 @@
+/home/gneya/defect-detection/metal_surface/model_inference/metal_surface_model.pkl filter=lfs diff=lfs merge=lfs -text
